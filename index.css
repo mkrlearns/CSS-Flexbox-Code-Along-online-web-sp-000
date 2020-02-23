@@ -17,6 +17,7 @@ main {
   height: 100%;
   flex-wrap: wrap;
   flex-flow: column wrap;
+  justify-content: center;
 }
 
 .item {
